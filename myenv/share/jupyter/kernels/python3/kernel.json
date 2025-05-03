@@ -1,0 +1,14 @@
+{
+ "argv": [
+  "c:/Users/HP/OneDrive/Documents/Github_Personal/Mobile_price_Classification_Sagemaker/myenv\\python.exe",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3 (ipykernel)",
+ "language": "python",
+ "metadata": {
+  "debugger": true
+ }
+}
